@@ -1,0 +1,1 @@
+export { default } from 'ember-quick-jump/components/quick-jump';
